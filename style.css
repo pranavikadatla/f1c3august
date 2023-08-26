@@ -207,6 +207,31 @@ h1 {
 .dollars {
   color: #f94a3d;
 }
+.users{
+    background-color: #F8F8F8;
+    padding: 20px 150px;
+    display: flex;
+    
+
+    
+}
+.faces{
+    display:flex;
+    margin:3px;
+
+}
+.fa-user{
+    margin-right:20px;
+}
+.para-10{
+    color: var(--food-text-color-2, #69697B);
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+font-size:10px;
+}
 .images {
   display: flex;
   justify-content: space-between;
